@@ -1,0 +1,139 @@
+.container{
+    border: 2px solid black;
+    display: flex;
+    justify-content: space-between;
+    width: 250px;
+    background-color: white;
+}
+.number{
+    display: flex;
+
+    
+    
+}
+#one{
+    text-decoration: underline;
+    margin-right: 15px;
+    font-weight: 100;
+}
+#two{
+    text-decoration: underline;
+    margin-right: 15px;
+    font-weight: 100;
+}
+#three{
+    text-decoration: underline;
+    margin-right: 15px;
+    font-weight: 100;
+}
+#four{
+    text-decoration: underline;
+    margin-right: 15px;
+    font-weight: 100;
+}
+#five{
+    text-decoration: underline;
+    margin-right: 15px;
+    font-weight: 100;
+}
+
+#back{
+    margin: 10px;
+    border-radius: 4px;
+}
+#next{
+  margin: 8px;
+
+    border-radius: 4px;
+}
+body{
+    background-color: black;
+    
+}
+
+.stretch{
+    border: 2px solid black;
+    height: 90px; 
+    width: 200px;
+    background-color: white;
+    display: flex;
+    
+}
+#but{
+    background-color: green;
+    color: white;
+    margin-top: 7px;
+    margin-left: 5px;
+    height: 25px;
+    width: 64px;
+}
+.shadow{
+    border: 2px solid black;
+    height: 60px; 
+    width: 150px;
+    background-color: white;
+    display: flex;
+    
+}
+#sha{
+    background-color: green;
+    color: white;
+    margin-top: 7px;
+    margin-left: 5px;
+    height: 30px;
+    width: 80px;
+    font-size: medium;
+    box-shadow: 3px 3px rgb(201, 172, 172);
+    
+}
+.code{
+    border: 1px solid black;
+    height: 60px; 
+    width: 250px;
+    background-color: white;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+ #pass{
+    background-color: green;
+    color: white;
+    margin-top: 7px;
+    margin-left: 5px;
+    height: 30px;
+    width: 60px;
+    font-size: medium;
+  
+    
+}
+
+
+#fail{
+    background-color: green;
+    color: white;
+    margin-top: 7px;
+    margin-left: 5px;
+    height: 30px;
+    width: 60px;
+    font-size: medium;
+    
+    
+}
+
+#both{
+    background-color: green;
+    color: white;
+    margin-top: 7px;
+    margin-left: 5px;
+    height: 30px;
+    width: 60px;
+    font-size: medium;
+  
+    
+    
+}
+h2{
+    color: white;
+    display: inline-block;
+    
+}
